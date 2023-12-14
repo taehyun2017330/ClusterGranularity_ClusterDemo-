@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ClusterGranularity_ClusterDemo-/static/css/main.8b8094ab.css",
+    "main.js": "/ClusterGranularity_ClusterDemo-/static/js/main.9a19d8dd.js",
+    "static/js/787.0c5e9af9.chunk.js": "/ClusterGranularity_ClusterDemo-/static/js/787.0c5e9af9.chunk.js",
+    "index.html": "/ClusterGranularity_ClusterDemo-/index.html",
+    "main.8b8094ab.css.map": "/ClusterGranularity_ClusterDemo-/static/css/main.8b8094ab.css.map",
+    "main.9a19d8dd.js.map": "/ClusterGranularity_ClusterDemo-/static/js/main.9a19d8dd.js.map",
+    "787.0c5e9af9.chunk.js.map": "/ClusterGranularity_ClusterDemo-/static/js/787.0c5e9af9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8094ab.css",
+    "static/js/main.9a19d8dd.js"
+  ]
+}
