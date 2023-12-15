@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ClusterGranularity_ClusterDemo-/static/css/main.2246ce49.css",
-    "main.js": "/ClusterGranularity_ClusterDemo-/static/js/main.37e00841.js",
+    "main.css": "/ClusterGranularity_ClusterDemo-/static/css/main.1c1544da.css",
+    "main.js": "/ClusterGranularity_ClusterDemo-/static/js/main.a6e5cad0.js",
     "static/js/787.0c5e9af9.chunk.js": "/ClusterGranularity_ClusterDemo-/static/js/787.0c5e9af9.chunk.js",
     "index.html": "/ClusterGranularity_ClusterDemo-/index.html",
-    "main.2246ce49.css.map": "/ClusterGranularity_ClusterDemo-/static/css/main.2246ce49.css.map",
-    "main.37e00841.js.map": "/ClusterGranularity_ClusterDemo-/static/js/main.37e00841.js.map",
+    "main.1c1544da.css.map": "/ClusterGranularity_ClusterDemo-/static/css/main.1c1544da.css.map",
+    "main.a6e5cad0.js.map": "/ClusterGranularity_ClusterDemo-/static/js/main.a6e5cad0.js.map",
     "787.0c5e9af9.chunk.js.map": "/ClusterGranularity_ClusterDemo-/static/js/787.0c5e9af9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2246ce49.css",
-    "static/js/main.37e00841.js"
+    "static/css/main.1c1544da.css",
+    "static/js/main.a6e5cad0.js"
   ]
 }
